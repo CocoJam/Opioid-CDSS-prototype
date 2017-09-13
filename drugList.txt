@@ -1,0 +1,25 @@
+Naltrexone
+50-100mg orally
+Daily or 3 times per week
+Anxiety, nausea, myalgia
+https://druginfo.nlm.nih.gov/drugportal/name/naltrexone
+Buprenorphine
+2-32 mg sublingual
+Daily or 3 times per week
+Respiratory depression, headache, constipation
+https://druginfo.nlm.nih.gov/drugportal/name/buprenorphine
+Clonidine
+0.1-0.3mg orally
+Every 6 hours
+Bradycardia, hypotension, dry mouth, drowsiness
+https://druginfo.nlm.nih.gov/drugportal/name/clonidine
+Methadone
+0.1-0.3 mg orally
+Every 6 hoursdizziness
+Constipation, respiratory depression, dizziness, nausea, sedation
+https://druginfo.nlm.nih.gov/drugportal/name/methadone
+Levomethadyl_acetate
+25-100mg orally
+3 times per week
+QT prolongation, Constipation
+https://druginfo.nlm.nih.gov/drugportal/rn/1477-40-3

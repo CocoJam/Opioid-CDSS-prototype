@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="opioid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/opioid_jar</output-path>
+    <root id="archive" name="opioid.jar">
+      <element id="module-output" name="opioid" />
+    </root>
+  </artifact>
+</component>
